@@ -2,6 +2,8 @@ const mongoose = require('mongoose');
 
 const mgrSchema = {
     name:String,
+    mid:String,
+    pwd:String
    
 }
 
